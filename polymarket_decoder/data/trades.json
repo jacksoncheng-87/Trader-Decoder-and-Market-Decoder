@@ -1,0 +1,16 @@
+[
+  {
+    "txHash": "0x916cad96dd5c219997638133512fd17fe7c1ce72b830157e4fd5323cf4f19946",
+    "logIndex": 1263,
+    "exchange": "0x4bFb41d5B3570DeFd03C39a9A4D8dE6Bd8B8982E",
+    "maker": "0x7bb244d0c70293E66dEe84f3D0623fbBbF7D682c",
+    "taker": "0x38E59B36Aae31b164200d0Cad7C3fE5e0eE795E7",
+    "makerAssetId": "0",
+    "takerAssetId": "108988271800978168213949343685406694292284061166193819357568013088568150075789",
+    "makerAmountFilled": "10010000",
+    "takerAmountFilled": "13000000",
+    "price": "0.7700",
+    "tokenId": "0xf0f52d012b787313df4917dc398adb927c807b7eca4da8b61acc6cb31534298d",
+    "side": "BUY"
+  }
+]
